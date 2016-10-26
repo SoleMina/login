@@ -11,7 +11,7 @@
 		<label for="user">User</label>
 		<p><input type="text" name="user" placeholder="User name"></p>
 		<label for="password">Password</label>
-		<p><input type="text" name="password" placeholder="Pasword"></p>
+		<p><input type="text" name="password" placeholder="Password"></p>
 		<input type="submit" name="submit" value="Sign in">
 	</form>
 </body>
